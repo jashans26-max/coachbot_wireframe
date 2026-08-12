@@ -1,11 +1,13 @@
-# test-skill
+---
+name: test-skill
+description: Test skill validating plugin loading mechanism
+---
 
-Test skill for the CoachBot Wireframe plugin.
+This skill confirms the CoachBot Wireframe plugin loaded successfully.
 
-This skill validates that the plugin's skill loading mechanism works correctly and that slash commands fire properly.
+Call this skill to verify:
+- Skills are properly loaded from the plugin
+- Slash commands fire correctly
+- Plugin infrastructure is functional
 
-## Usage
-
-You can invoke this skill with `/coachbot-wireframe:test-skill` or simply `/test-skill` depending on your Claude Code configuration.
-
-The skill confirms successful plugin loading by displaying plugin metadata.
+The skill will display confirmation that this plugin's skills subsystem is active and ready.
