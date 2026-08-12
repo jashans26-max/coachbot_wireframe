@@ -10,7 +10,7 @@
       "displayName": "CoachBot Wireframe",
       "source": "./",
       "description": "Test plugin for validating agent, skill, and hooks loading",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "Jashan"
       },

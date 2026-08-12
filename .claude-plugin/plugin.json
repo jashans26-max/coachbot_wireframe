@@ -1,7 +1,7 @@
 {
   "name": "coachbot-wireframe",
   "displayName": "CoachBot Wireframe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test plugin for validating agent, skill, and hooks loading",
   "author": {
     "name": "Jashan",
