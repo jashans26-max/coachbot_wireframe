@@ -1,11 +1,18 @@
-# /test-skill
+---
+description: Test skill from CoachBot Wireframe plugin. Confirms plugin loaded successfully and skill system working. ✅ AUTO-UPDATE TEST 2026-08-12 18:30
+---
 
-## Summary
-Test skill from CoachBot Wireframe plugin - confirms plugin loaded successfully.
+# CoachBot Wireframe - Test Skill
 
-## Usage
-Use this skill to validate that the CoachBot Wireframe plugin is working correctly.
+This skill confirms that the CoachBot Wireframe plugin loaded successfully.
 
-✅ **AUTO-UPDATE TEST MARKER**: Updated 2026-08-12 18:30
+## What this proves
 
-If you see this text in the skill, the plugin's auto-update system is working.
+- ✅ Plugin loading works
+- ✅ Skills subsystem recognized the plugin
+- ✅ Skill files parse correctly
+- ✅ If you see "2026-08-12 18:30", auto-update worked
+
+## Status
+
+CoachBot Wireframe plugin is active and ready.
