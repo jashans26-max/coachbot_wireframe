@@ -1,0 +1,16 @@
+{
+  "name": "coachbot-wireframe",
+  "displayName": "CoachBot Wireframe",
+  "version": "1.0.0",
+  "description": "Test plugin for validating agent, skill, and hooks loading",
+  "author": {
+    "name": "Jashan",
+    "email": "jashan.s26@ascendancefoundry.com"
+  },
+  "repository": "https://github.com/jashans26-max/coachbot_wireframe",
+  "license": "MIT",
+  "keywords": ["test", "wireframe", "validation"],
+  "agents": "./agents/",
+  "skills": "./skills/",
+  "hooks": "./hooks/hooks.json"
+}

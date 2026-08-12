@@ -1,0 +1,8 @@
+{
+  "hooks": [
+    {
+      "when": "test-hook:trigger",
+      "run": "echo 'CoachBot Wireframe plugin hooks loaded successfully'"
+    }
+  ]
+}
