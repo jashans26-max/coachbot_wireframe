@@ -10,7 +10,6 @@
   "repository": "https://github.com/jashans26-max/coachbot_wireframe",
   "license": "MIT",
   "keywords": ["test", "wireframe", "validation"],
-  "agents": "./agents/",
   "skills": "./skills/",
   "hooks": "./hooks/hooks.json"
 }
