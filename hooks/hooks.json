@@ -1,3 +1,11 @@
 {
-  "hooks": []
+  "hooks": [
+    {
+      "name": "coachbot-loaded",
+      "description": "CoachBot Wireframe plugin loaded notification",
+      "when": "before-session-start",
+      "run": "echo 'ℹ️ CoachBot Wireframe plugin is active'"
+    }
+  ]
 }
+
